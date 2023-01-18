@@ -1,7 +1,7 @@
 ﻿# Portfolio
 
 - 大嶋 柊哉
-    - 連絡先 Twitter [@wYtCmZYy0RAkyTJ](https://twitter.com/wYtCmZYy0RAkyTJ) / Email [oshima.dat22@gmail.com](oshima.dat22@gmail.com)
+    - 連絡先 Twitter [@wYtCmZYy0RAkyTJ](https://twitter.com/wYtCmZYy0RAkyTJ) / Email [oshima.dat22@gmail.com](mailto:oshima.dat22@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2024年卒業予定
 
 ## 資格
@@ -28,6 +28,6 @@
 
 
 ## 連絡先
-- ブログ []()
+- ブログ [oshima27](https://oshima27.hatenablog.com/)
 - Twitter [@wYtCmZYy0RAkyTJ](https://twitter.com/wYtCmZYy0RAkyTJ)
 - E-mail [oshima.dat22@gmail.com](oshima.dat22@gmail.com)

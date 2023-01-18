@@ -36,4 +36,4 @@
 ## 連絡先
 - ブログ [oshima27](https://oshima27.hatenablog.com/)
 - Twitter [@wYtCmZYy0RAkyTJ](https://twitter.com/wYtCmZYy0RAkyTJ)
-- E-mail [oshima.dat22@gmail.com](oshima.dat22@gmail.com)
+- E-mail [oshima.dat22@gmail.com](mailto:oshima.dat22@gmail.com)

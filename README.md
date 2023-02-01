@@ -32,7 +32,7 @@
 
 - 開発環境 Unity
 - 開発期間 2～3カ月
-- 未完成
+- ほぼ完成に近い状態
 
 ### ReStart ※現在開発中
 ![screenshot](restart.png)

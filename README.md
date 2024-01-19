@@ -25,7 +25,7 @@
 
 ## 作品リスト
 
-### CaveEscape ※現在開発中
+### CaveEscape
 ![screenshot](caveescapeSS.png)
 
 [3D横スクロールアクション] 地下最深部に落ちてしまい、脱出のため登っていくゲーム
